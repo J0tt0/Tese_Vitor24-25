@@ -1,1 +1,1 @@
-# Tese_Vitor24-25
+It is important to note that, due to data privacy and usage restrictions, the original dataset used in this study cannot be shared publicly. However, the repository includes detailed documentation and scripts that can be adapted for use with similar datasets.
